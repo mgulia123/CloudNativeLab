@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "qQD0JGB6gsj9HO9R5dseVhBFPRYguCedWuUbZGsjegCwgVZ/kt9nQx30MlFShixJECJEfLb0ASj9/Rx3iovctQ==",
+  "success": true,
+  "projectFilePath": "/Users/manpreetgulia/Desktop/Training/Repo/CloudNativeLab/CloudNativeLab.csproj",
+  "expectedPackageFiles": [
+    "/Users/manpreetgulia/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/manpreetgulia/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/manpreetgulia/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/manpreetgulia/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/manpreetgulia/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/manpreetgulia/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
